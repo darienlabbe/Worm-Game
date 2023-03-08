@@ -33,21 +33,6 @@ char get_control( )
     if ( retval ) {
         if ( read(0, &c, 1) < 0)
             die();
-        /*
-	if( c == 'w' || c == 'a' || c == 's' || c == 'd' ) {
-            switch (c) {
-                case 'w':
-                    return UP;
-                case 'a':
-                    return LEFT;
-                case 's':
-                    return RIGHT;
-                case 'd':
-                    return DOWN;
-                default:
-                    return INVALID;
-            }
-        }*/
         lastc = c;
     }
     return( lastc );
