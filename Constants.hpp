@@ -1,9 +1,9 @@
 /*******************************************************************************
- * CONSTANTS & HELPER FUNCTIONS						                                     *
- * 									                                                           *
- * Project: Worm Project						                                           *
- * Name: Darien Labbe							                                             *
- * Date: 27 Octover 2022						                                           *
+ * CONSTANTS & HELPER FUNCTIONS                                                *
+ *                                                                             *
+ * Project: Worm Project                                                       *
+ * Name: Darien Labbe                                                          *
+ * Date: 27 Octover 2022                                                       *
  *                                                                             *
  ******************************************************************************/
 
