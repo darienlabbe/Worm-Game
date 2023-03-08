@@ -1,1 +1,0 @@
-extern char get_control( void );
